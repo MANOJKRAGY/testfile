@@ -1,3 +1,4 @@
 1
 new branch
 new brach text
+making a new line for the reset checking
